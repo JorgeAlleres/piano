@@ -16,5 +16,5 @@ function playNote(note) {
 }
 
 function stopNote() {
-    synth.triggerRelease;
+    synth.triggerRelease();
 }
